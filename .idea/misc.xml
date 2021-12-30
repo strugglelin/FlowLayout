@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/drawable/checked_bg.xml" value="0.2786458333333333" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/drawable/normal_bg.xml" value="0.2786458333333333" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/drawable/tag_bg.xml" value="0.2786458333333333" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/drawable/text_color.xml" value="0.2786458333333333" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/activity_category.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/activity_main.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/activity_main_sc.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/fragment_event_test.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/fragment_listview.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/fragment_sc.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/fragment_single_choose.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/item_for_listview.xml" value="0.2625" />
+        <entry key="..\:/AndroidWorkspace/FlowLayout/app/src/main/res/layout/tv.xml" value="0.2625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
